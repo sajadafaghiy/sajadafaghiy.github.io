@@ -10,14 +10,23 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "assets/images/favicon-512x512.png",
+      "src": "assets/icons/favicon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "assets/images/favicon-192x192.png",
+      "src": "assets/icons/favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/screenshots/iphone-14-pro-max.png",
+      "sizes": "1290x2796",
+      "type": "image/png",
+      "from_factor": "narrrow",
+      "label": "Home Page"
     }
   ]
 }
