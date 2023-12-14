@@ -27,6 +27,13 @@
       "type": "image/png",
       "from_factor": "narrrow",
       "label": "Home Page"
+    },
+    {
+      "src": "assets/screenshots/surface-pro-7",
+      "sizes": "2736x1824",
+      "type": "image/png",
+      "from_factor": "wide",
+      "label": "Home Page"
     }
   ]
 }
