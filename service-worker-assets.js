@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "v2",
+  "version": "3",
   "assets": [
     {
       "url": "favicon.ico"
